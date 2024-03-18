@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ZayadaShop/ZayadaShop/.vs/ZayadaShop/v17
+/ZayadaShop/ZayadaShop/.vs/ZayadaShop/FileContentIndex
