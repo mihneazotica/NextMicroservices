@@ -5,3 +5,7 @@
 /.vs
 /ZayadaShop/ZayadaShop/.vs/ZayadaShop/v17
 /ZayadaShop/ZayadaShop/.vs/ZayadaShop/FileContentIndex
+/ZayadaShop/ZayadaShop/src/AuctionService/bin/Debug/net8.0
+/ZayadaShop/ZayadaShop/src/AuctionService/obj
+*.log
+/ZayadaShop/ZayadaShop/.vs/ZayadaShop/config
